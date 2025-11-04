@@ -3,7 +3,7 @@
         "lane1": {
             "name": "lane1",
             "unit": "AFCCan",
-            "hub": "AFCCan",
+            "hub": "BT_Hub",
             "extruder": "extruder",
             "buffer": "TurtleNeck",
             "buffer_status": "Trailing",
@@ -31,7 +31,7 @@
         "lane2": {
             "name": "lane2",
             "unit": "AFCCan",
-            "hub": "AFCCan",
+            "hub": "BT_Hub",
             "extruder": "extruder",
             "buffer": "TurtleNeck",
             "buffer_status": "Trailing",
@@ -59,7 +59,7 @@
         "lane3": {
             "name": "lane3",
             "unit": "AFCCan",
-            "hub": "AFCCan",
+            "hub": "BT_Hub",
             "extruder": "extruder",
             "buffer": "TurtleNeck",
             "buffer_status": "Trailing",
@@ -87,7 +87,7 @@
         "lane4": {
             "name": "lane4",
             "unit": "AFCCan",
-            "hub": "AFCCan",
+            "hub": "BT_Hub",
             "extruder": "extruder",
             "buffer": "TurtleNeck",
             "buffer_status": "Trailing",
