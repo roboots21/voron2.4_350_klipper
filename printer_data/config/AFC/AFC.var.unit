@@ -1,12 +1,12 @@
 {
     "AFCCan": {
-        "lane1": {
-            "name": "lane1",
+        "lane_1": {
+            "name": "lane_1",
             "unit": "AFCCan",
             "hub": "Box_Turtle",
             "extruder": "extruder",
             "buffer": "TurtleNeck",
-            "buffer_status": "Trailing",
+            "buffer_status": "Unknown",
             "lane": 1,
             "map": "T0",
             "load": false,
@@ -28,13 +28,13 @@
             "dist_hub": 155.0,
             "td1_data": {}
         },
-        "lane2": {
-            "name": "lane2",
+        "lane_2": {
+            "name": "lane_2",
             "unit": "AFCCan",
             "hub": "Box_Turtle",
             "extruder": "extruder",
             "buffer": "TurtleNeck",
-            "buffer_status": "Trailing",
+            "buffer_status": "Unknown",
             "lane": 2,
             "map": "T1",
             "load": false,
@@ -56,13 +56,13 @@
             "dist_hub": 80.0,
             "td1_data": {}
         },
-        "lane3": {
-            "name": "lane3",
+        "lane_3": {
+            "name": "lane_3",
             "unit": "AFCCan",
             "hub": "Box_Turtle",
             "extruder": "extruder",
             "buffer": "TurtleNeck",
-            "buffer_status": "Trailing",
+            "buffer_status": "Unknown",
             "lane": 3,
             "map": "T2",
             "load": false,
@@ -84,13 +84,13 @@
             "dist_hub": 90.0,
             "td1_data": {}
         },
-        "lane4": {
-            "name": "lane4",
+        "lane_4": {
+            "name": "lane_4",
             "unit": "AFCCan",
             "hub": "Box_Turtle",
             "extruder": "extruder",
             "buffer": "TurtleNeck",
-            "buffer_status": "Trailing",
+            "buffer_status": "Unknown",
             "lane": 4,
             "map": "T3",
             "load": false,
