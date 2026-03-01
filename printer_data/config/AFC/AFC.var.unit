@@ -24,8 +24,8 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Calibrating",
-            "dist_hub": 175.0,
+            "status": "Ejecting",
+            "dist_hub": 150.0,
             "td1_data": {}
         },
         "lane2": {
