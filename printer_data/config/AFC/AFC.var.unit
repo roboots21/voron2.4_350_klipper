@@ -23,7 +23,7 @@
             "extruder_temp": null,
             "runout_lane": null,
             "filament_status": "Not Ready",
-            "filament_status_led": "#3f0000",
+            "filament_status_led": "#330000",
             "status": "None",
             "dist_hub": 150.0,
             "td1_data": {}
@@ -51,7 +51,7 @@
             "extruder_temp": null,
             "runout_lane": null,
             "filament_status": "Not Ready",
-            "filament_status_led": "#3f0000",
+            "filament_status_led": "#330000",
             "status": "None",
             "dist_hub": 85.0,
             "td1_data": {}
@@ -79,7 +79,7 @@
             "extruder_temp": null,
             "runout_lane": null,
             "filament_status": "Not Ready",
-            "filament_status_led": "#3f0000",
+            "filament_status_led": "#330000",
             "status": "None",
             "dist_hub": 85.0,
             "td1_data": {}
@@ -107,7 +107,7 @@
             "extruder_temp": null,
             "runout_lane": null,
             "filament_status": "Not Ready",
-            "filament_status_led": "#3f0000",
+            "filament_status_led": "#330000",
             "status": "None",
             "dist_hub": 150.0,
             "td1_data": {}
