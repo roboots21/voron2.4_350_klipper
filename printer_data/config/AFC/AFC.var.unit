@@ -52,7 +52,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#003300",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 80.0,
             "td1_data": {}
         },
@@ -124,7 +124,7 @@
             }
         },
         "bypass": {
-            "enabled": 1
+            "enabled": false
         }
     }
 }
